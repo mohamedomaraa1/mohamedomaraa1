@@ -5,12 +5,12 @@
 
 ### 👨‍💻 About Me
 
-I'm a *Data Engineer* with a strong foundation in data pipelines, data modeling, and automation using modern data tools and cloud technologies.  
+I'm a **Data Engineer** with a strong foundation in data pipelines, data modeling, and automation using modern data tools and cloud technologies.  
 I enjoy transforming raw data into clean, reliable datasets for analytics, AI, and business insights.
 
-💡 I have a genuine passion for *Data Engineering* — from ingestion and transformation to orchestration and optimization.
+💡 I have a genuine passion for **Data Engineering** — from ingestion and transformation to orchestration and optimization.
 
-📚 I'm currently enhancing my skills through the *Data Engineering track at ITI*, working on real-world projects and mastering modern tools and architectures.  
+📚 I'm currently enhancing my skills through the **Data Engineering track at ITI**, working on real-world projects and mastering modern tools and architectures.  
 With a blend of hands-on project experience and a commitment to continuous learning, I focus on designing and optimizing data systems using both batch and real-time architectures.
 
 ---
@@ -19,19 +19,19 @@ With a blend of hands-on project experience and a commitment to continuous learn
 
 | Category | Tools & Technologies |
 |---------|----------------------|
-| *Data Engineering Concepts* | Data Warehousing, Data Modeling, ETL/ELT |
-| *Databases* | SQL Server, Oracle, MySQL. PostgreSQL, NoSQL (MongoDB), NosSQL (Cassandra)|
-| *Big Data* | Hadoop, Apache Hive, Apache Spark, Apache Kafka |
-| *ETL Tools* | Talend, Informatica Cloud (IICS) |
-| *Data Modeling* | dbt (Data Build Tool) |
-| *Programming & Scripting* | Python, SQL, Bash |
-| *Data Ingestion* | Apache NiFi |
-| *Orchestration* | Apache Airflow, Dagster |
-| *DevOps & CI/CD* | Linux, Docker, Jenkins, GitHub |
-| *Cloud* | AWS, Snowflake |
-| *BI & Dashboards* | Power BI, Preset (Superset), Grafana|
-| *Data Analysis* | Pandas, NumPy, Matplotlib, Seaborn, Plotly |
-| *Web Scarping* | Selenium
+| **Data Engineering Concepts** | Data Warehousing, Data Modeling, ETL/ELT |
+| **Databases** | SQL Server, Oracle, MySQL. PostgreSQL, NoSQL (MongoDB), NosSQL (Cassandra)|
+| **Big Data** | Hadoop, Apache Hive, Apache Spark, Apache Kafka |
+| **ETL Tools** | Talend, Informatica Cloud (IICS) |
+| **Data Modeling** | dbt (Data Build Tool) |
+| **Programming & Scripting** | Python, SQL, Bash |
+| **Data Ingestion** | Apache NiFi |
+| **Orchestration** | Apache Airflow, Dagster |
+| **DevOps & CI/CD** | Linux, Docker, Jenkins, GitHub |
+| **Cloud** | AWS, Snowflake |
+| **BI & Dashboards** | Power BI, Preset (Superset), Grafana|
+| **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn, Plotly |
+| **Web Scarping** | Selenium
 ---
 
 ### 🌐 Let's Connect!
@@ -45,4 +45,4 @@ With a blend of hands-on project experience and a commitment to continuous learn
 - 📧 Email: **mohamedomara12333@gmail.com**
 ---
 
-🛠 This profile is a reflection of my journey — continuously learning, building, and improving in the world of data engineering.
+🛠️ *This profile is a reflection of my journey — continuously learning, building, and improving in the world of data engineering.*
