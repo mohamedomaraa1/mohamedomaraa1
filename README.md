@@ -1,17 +1,27 @@
 <h1 align="center">Hi 👋, I'm Mohamed Omara</h1>
-<h3 align="center">Passionate about building scalable, data-driven solutions and modern data platforms 🚀</h3>
+<h3 align="center">Data Engineer — building scalable, data-driven platforms 🚀</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a **Data Engineer** with a strong foundation in data pipelines, data modeling, and automation using modern data tools and cloud technologies.  
-I enjoy transforming raw data into clean, reliable datasets for analytics, AI, and business insights.
+I'm a **Data Engineer at Intouch**, building and optimizing production data platforms that power real-time, personalized retail media advertising.
 
-💡 I have a genuine passion for **Data Engineering** — from ingestion and transformation to orchestration and optimization.
+My day-to-day is designing and running multi-source ETL/ELT pipelines on **GCP Composer (Airflow)** — ingesting **100M+ records daily** from TimescaleDB and PostgreSQL, transforming with **Polars**, and landing curated data in **GCS / BigQuery** for analytics and AI. I care about reliability, performance, and clean data interfaces: versioned migrations, monitoring with real alerting, and SQL that abstracts complexity away from the application layer.
 
-📚 I'm currently enhancing my skills through the **Data Engineering track at ITI**, working on real-world projects and mastering modern tools and architectures.  
-With a blend of hands-on project experience and a commitment to continuous learning, I focus on designing and optimizing data systems using both batch and real-time architectures.
+💡 Strong across both **batch and real-time** architectures — from ingestion and transformation to orchestration, optimization, and observability.
+
+🎓 Graduate of the **Data Engineering Intensive at ITI**, and a Mechatronics Engineer by degree (Menoufia University).
+
+---
+
+### 🏆 Highlights
+
+- ⚡ Cut multi-pipeline execution time from **~30 min → ~5 min** via Airflow parallelism tuning and `ThreadPoolExecutor` concurrency on GCP Composer (60+ parallel workers).
+- 📈 Sustained **99.5% uptime** across critical ETL workflows processing 100M+ daily records.
+- 🚨 Built a proactive **Grafana monitoring + alerting** system (player health, zero-impression detection, resource spikes) logging incidents to a structured table with Slack delivery.
+- 🧩 Designed versioned **PostgreSQL set-returning functions** powering all 6 portal analytics tabs — a single, filterable analytics interface for the app layer.
+- 🗂️ Managed production schema migrations with **Flyway** — versioned, auditable, repeatable.
 
 ---
 
@@ -19,19 +29,19 @@ With a blend of hands-on project experience and a commitment to continuous learn
 
 | Category | Tools & Technologies |
 |---------|----------------------|
-| **Data Engineering Concepts** | Data Warehousing, Data Modeling, ETL/ELT |
-| **Databases** | SQL Server, Oracle, MySQL. PostgreSQL, NoSQL (MongoDB), NosSQL (Cassandra)|
-| **Big Data** | Hadoop, Apache Hive, Apache Spark, Apache Kafka |
-| **ETL Tools** | Talend, Informatica Cloud (IICS) |
-| **Data Modeling** | dbt (Data Build Tool) |
+| **Data Engineering** | Data Warehousing, Data Modeling, ETL/ELT, CDC |
+| **Databases** | SQL Server, Oracle, MySQL, PostgreSQL, TimescaleDB, MongoDB, Cassandra |
+| **Big Data** | Hadoop, Apache Hive, Apache Spark, Apache Kafka, Apache Flink |
+| **ETL Tools** | Apache NiFi, Talend, Informatica Cloud (IICS) |
+| **Transformation & Modeling** | dbt, Polars, Pandas, NumPy |
+| **Orchestration** | Apache Airflow (GCP Composer), Dagster |
+| **Cloud** | GCP, AWS, Snowflake, Databricks |
+| **DevOps & CI/CD** | Docker, Linux, Jenkins, GitHub, Flyway |
+| **BI & Dashboards** | Grafana, Power BI, Preset (Superset) |
 | **Programming & Scripting** | Python, SQL, Bash |
-| **Data Ingestion** | Apache NiFi |
-| **Orchestration** | Apache Airflow, Dagster |
-| **DevOps & CI/CD** | Linux, Docker, Jenkins, GitHub |
-| **Cloud** | AWS, Snowflake |
-| **BI & Dashboards** | Power BI, Preset (Superset), Grafana|
-| **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn, Plotly |
-| **Web Scarping** | Selenium
+| **Visualization** | Matplotlib, Seaborn, Plotly |
+| **Web Scraping** | Selenium |
+
 ---
 
 ### 🌐 Let's Connect!
@@ -43,6 +53,8 @@ With a blend of hands-on project experience and a commitment to continuous learn
 </p>
 
 - 📧 Email: **mohamedomara12333@gmail.com**
+- 💼 LinkedIn: **[mohamed-omara-a93b972b5](https://www.linkedin.com/in/mohamed-omara-a93b972b5)**
+
 ---
 
-🛠️ *This profile is a reflection of my journey — continuously learning, building, and improving in the world of data engineering.*
+🛠️ *Continuously learning, building, and improving in the world of data engineering.*
